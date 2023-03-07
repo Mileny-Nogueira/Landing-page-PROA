@@ -13,7 +13,7 @@
 }
 
 /*MEDIA QUERY*/
-@media screen and (max-width: 657px) {
+@media screen and (max-width: 790px) {
     #conteiner_conteudo{
         width: 272px;
         height: 288px;
@@ -150,8 +150,8 @@ iframe{
 
 figure{
     height:165px;
-    width:160px;    
-    margin: 20px 10px;     
+    width:160px;
+    margin: auto;      
 }
 
 figure a{
@@ -227,14 +227,6 @@ figcaption{
     width: 90px;
     margin-top:20px;
     margin-left:40px; 
-}
-
-#icone7 h3{
-    text-align: center;
-    color:black;
-    z-index: index 1;
-    position:relative;
-    margin:auto;
 }
     
 #oitavo{
